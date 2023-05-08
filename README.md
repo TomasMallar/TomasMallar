@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Tomás Mallar</h1>
-<h3 align="center">Full Stack Web Developer 👨‍💻</h3>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg%22%3E<img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=Tomas+Martín+Mallar+Simone;Full-Stack+Developer👨‍💻;&font=Fira%20Code&center=true&width=440&height=45&size=22%22%22%3E</a>
+</p>
 ## Sobre mi
 <p>
-Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y oportunidades para crecer profesionalmente, aprender nuevas tecnologías y mejorar mis habilidades. Me gusta trabajar en equipo y mi objetivo es seguir desarrollando mi carrera en el campo del desarrollo web. </p>
+¡Hola mundo! Soy Tomás Mallar, un estudiante de Ingeniería de Sistemas de 24 años que actualmente vive en Mendoza, Argentina. Durante estos últimos años, he estado trabajando en mejorar mis conocimientos sobre desarrollo y planeo seguir haciéndolo en los próximos años. Actualmente soy Desarrollador Full Stack graduado de Henry </p>
+<p>
+¡Hola mundo! Soy Tomás Mallar, un estudiante de Ingeniería de Sistemas de 24 años que actualmente vive en Mendoza, Argentina. Durante estos últimos años, he estado trabajando en mejorar mis conocimientos sobre desarrollo y planeo seguir haciéndolo en los próximos años. Actualmente soy Desarrollador Full Stack graduado de Henry </p>
+
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mallartomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mallartomas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tomasmallar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tomasmallar/" height="30" width="40" /></a>
+<a href="mailto:mallartomas@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
