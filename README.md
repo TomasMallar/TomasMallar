@@ -1,5 +1,3 @@
-<h1 align="center">Hola Mundo 👋, soy Tomás Mallar/h1>
-<h3 align="center">Full Stack Web Developer 👨‍💻</h3>
 <h1 align="center">Hi 👋, I'm Tomás Mallar</h1>
 <h3 align="center">Full Stack Web Developer 👨‍💻</h3>
 
