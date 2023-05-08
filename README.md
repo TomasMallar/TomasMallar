@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/mallartomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mallartomas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tomasmallar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tomasmallar/" height="30" width="40" /></a>
-<a href="mailto:mallartomas@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
+<a href="mailto:mallartomas@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="30" width="40" >
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
