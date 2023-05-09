@@ -2,7 +2,7 @@
  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Tomás+Martín+Mallar+Simone;Full-Stack+Developer👨‍💻;&font=Fira%20Code&center=true&width=440&height=45&size=22"></a>
 </p>
-<h2 align="left">Sobre mi:</h2>
+<h3 align="left">Sobre mi:</h3>
 <p>
 ¡Hola mundo! Soy Tomás Mallar, un estudiante de Ingeniería de Sistemas, tengo 24 años que actualmente, vivo en Mendoza, Argentina. Durante estos últimos años, he estado trabajando en mejorar mis conocimientos sobre desarrollo y planeo seguir haciéndolo en los próximos años. Actualmente soy Desarrollador Full Stack graduado de Henry. Soy una persona proactiva que me encanta encarar y afrontar nuevos desafios. Me gustaría sumar expariencias para mejorar mis tech skills y poder ayudar en proyectos. </p>
 <p>
