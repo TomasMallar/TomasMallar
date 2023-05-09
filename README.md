@@ -6,7 +6,7 @@
 <p>
 ¡Hola mundo! Soy Tomás Mallar, un estudiante de Ingeniería de Sistemas, tengo 24 años que actualmente, vivo en Mendoza, Argentina. Durante estos últimos años, he estado trabajando en mejorar mis conocimientos sobre desarrollo y planeo seguir haciéndolo en los próximos años. Actualmente soy Desarrollador Full Stack graduado de Henry. Soy una persona proactiva que me encanta encarar y afrontar nuevos desafios. Me gustaría sumar expariencias para mejorar mis tech skills y poder ayudar en proyectos. </p>
 <p>
-Hello World! I'm Tomás Mallar, a 24 year old Systems Engineering student currently living in Mendoza Argentina. This lasts years I have been working on improving my knowledge about development and I’m planning to keep doing this for the further years. Currently, I am a Full Stack Developer graduated from Henry.</p>
+Hello World! I'm Tomás Mallar, a 24 year old Systems Engineering student currently living in Mendoza Argentina. This lasts years I have been working on improving my knowledge about development and I’m planning to keep doing this for the further years. Currently, I am a Full Stack Developer graduated from Henry. I am a proactive individual who thrives on embracing and tackling new challenges. I am eager to gain experiences that will enhance my technical skills and enable me to make valuable contributions to projects.</p>
 
 <br>
 <br>
